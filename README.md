@@ -23,7 +23,6 @@ Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security 
 <br />
 <br />
 <br />
-<br />
 
 **Languages:**  
 
