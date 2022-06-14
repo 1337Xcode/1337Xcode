@@ -36,17 +36,11 @@ Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security 
 <code><a href="https://flutter.dev"><img height="20" src="https://github.com/hussainweb/hussainweb/blob/main/icons/flutter.png?raw=true"></a></code>
 <br />
 
-### You Can Support Me Just Like My Life By Giving Lemons<img src="https://media.giphy.com/media/jOzYxhKzIGD2qiZibu/giphy-downsized-large.gif" width="40">
+### You Can Support Me Just Like My Life By Giving Lemons<img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Lemons.gif" width="40">
 <a href="https://www.buymeacoffee.com/ERR0Rxx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Lemon" width="150" ></a>
 <br />
 
-## <img src="https://media.giphy.com/media/LIcwKtctRdCtPaaaNO/giphy.gif" width="60">Actions
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=1337Xcode&theme=github"/>
-</div>
-
-## <img src="https://media.giphy.com/media/0PGtnC8f4AYoozjq4O/giphy.gif" width="60">My Work
+## <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/DogeDancing.webp" width="60">My Work
 <details>
 <summary> Repositories </summary>
 <br />
@@ -68,7 +62,7 @@ Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security 
 <br />
 </details>
 
-## <img src="https://media.giphy.com/media/fQSbz9dcRONsQOvPqS/giphy.gif" width="70"> Quick Overview
+## <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/MeWhenCoding.webp" width="70"> Quick Overview
 <details>
 <summary> Statistics </summary>
 <br />
