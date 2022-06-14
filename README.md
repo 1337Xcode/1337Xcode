@@ -3,7 +3,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success&color=green)
 ![](https://komarev.com/ghpvc/?username=1337Xcode&color=brightgreen&style=flat)
 
-Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security Enthusiast**, I Remember Ever Since I Was in Primary School I Had An Urge To Learn How A Software Or Computer Program Works, And As Time Went By That Urge Got Converted Into Passion And Not Only I Loved Working With Software I Had Much More Fun Finding Loop Holes Or Bugs in That Software As Well And Soon After I Started Exploiting It, But That's A Story For Another Day <img src="https://media.giphy.com/media/TITn4hSnf6gOm3opHS/giphy.gif" width="25">
+Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security Enthusiast**, I Remember Ever Since I Was in Primary School I Had An Urge To Learn How A Software Or Computer Program Works, And As Time Went By That Urge Got Converted Into Passion And Not Only I Loved Working With Software I Had Much More Fun Finding Loop Holes Or Bugs in That Software As Well And Soon After I Started Exploiting It, But That's A Story For Another Day <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Chat.webp" width="20">
 
 <a href="https://t.me/XCode">
   <img align="right" alt="1337XCode's Personal" width="360" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
