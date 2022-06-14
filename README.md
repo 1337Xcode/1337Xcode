@@ -1,4 +1,4 @@
-### <center>Hey, It's Me 1337XCode ![Image]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></center>
+### <center>Hey, It's Me 1337XCode <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></center>
 
 ![build: passing](https://img.shields.io/badge/build-passing-success&color=green)
 ![](https://komarev.com/ghpvc/?username=1337Xcode&color=brightgreen&style=flat)
