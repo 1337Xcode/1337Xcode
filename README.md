@@ -3,7 +3,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success&color=green)
 ![](https://komarev.com/ghpvc/?username=1337Xcode&color=brightgreen&style=flat)
 
-Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security Enthusiast**, I Remember Ever Since I Was in Primary School I Had An Urge To Learn How A Software Or Computer Program Works, And As Time Went By That Urge Got Converted Into Passion And Not Only I Loved Working With Software I Had Much More Fun Finding Loop Holes Or Bugs in That Software As Well And Soon After I Started Exploiting It, But That's A Story For Another Day <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Chat.webp" width="25">
+Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security Enthusiast**, I Remember Ever Since I Was in Primary School I Had An Urge To Learn How A Software Or Computer Program Works, And As Time Went By That Urge Got Converted Into Passion And Not Only I Loved Working With Software I Had Much More Fun Finding Loop Holes Or Bugs in That Software As Well And Soon After I Started Exploiting It, But That's A Story For Another Day <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Chat.webp" width="20">
 
 <a href="https://t.me/XCode">
   <img align="right" alt="1337XCode's Personal" width="360" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Coding.webp" />
@@ -12,13 +12,13 @@ Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security 
 ### Socials
 
 <a href="https://github.com/1337Xcode">
-  <img align="left" alt="1337XCode's GitHub" width="60" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Octocat.webp" />
+  <img align="left" alt="1337XCode's GitHub" width="50" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Octocat.webp" />
 </a>
 <a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ">
-  <img align="left" alt="1337XCode YouTube" width="50" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Youtube.webp" />
+  <img align="left" alt="1337XCode YouTube" width="45" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Youtube.webp" />
 </a>
 <a href="https://t.me/+qLf-HkRjaEVmMjll">
-  <img align="left" alt="1337XCode's Telegram" width="60" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Telegram.webp" />
+  <img align="left" alt="1337XCode's Telegram" width="50" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Telegram.webp" />
 </a>
 <br />
 <br />
