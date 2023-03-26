@@ -40,8 +40,7 @@ Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security 
 <a href="https://www.buymeacoffee.com/ERR0Rxx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Lemon" width="150" ></a>
 <br />
 ## OR
-<br />
-<a href="https://www.patreon.com/1337XCode" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/1200px-Patreon_logo.svg.png" alt="Patreon" width="20" ></a>
+<a href="https://www.patreon.com/1337XCode" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/1200px-Patreon_logo.svg.png" alt="Patreon" width="100" ></a>
 <br />
 
 ## <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/DogeDancing.webp" width="60">My Work
