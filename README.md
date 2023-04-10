@@ -1,47 +1,38 @@
-### <center>Hey, It's Me 1337XCode <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Hey.webp" width="25"></center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey%2C+It's+Me+1337XCode!" alt="Typing SVG" /></a>
 
-![build: passing](https://img.shields.io/badge/build-passing-success&color=green)
-![](https://komarev.com/ghpvc/?username=1337Xcode&color=brightgreen&style=flat)
+![profile: views](https://komarev.com/ghpvc/?username=1337Xcode&color=grey&style=flat)
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-Welcome To My GitHub Profile. I'm A **Self Taught Programmer And Cyber Security Enthusiast** known by the alias XCode.
-
+Welcome to my GitHub profile! I'm a self-taught programmer and cybersecurity enthusiast known by the alias XCode.<br>
+<!--Basic GiF-->
 <a href="https://t.me/XCode">
   <img align="right" alt="1337XCode's Personal" width="360" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Coding.webp" />
 </a>
 
-### My Socials:
+**About Me**<br>
+🔭 I’m currently working on improving my skills in various programming languages.<br>
+🌱 I’m currently pursuing Masters in ML and AI.<br>
+💬 Ask me about anything related to programming and cybersecurity.<br>
 
-<a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ">
-  <img align="left" alt="1337XCode YouTube" width="45" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Youtube.webp" />
-</a>
-<a href="https://t.me/+qLf-HkRjaEVmMjll">
-  <img align="left" alt="1337XCode's Telegram" width="50" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Telegram.webp" />
-</a>
-<br />
-<br />
-<br />
+**My Socials:**<br>
+You can find me on the following platforms:
+<p align="left"> <a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
+  <a href="https://t.me/+qLf-HkRjaEVmMjll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
-**Languages:**  
+**🔧 Technologies & Tools**<br>
+I'm proficient in the following programming languages and tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,dart,go" />
+  </a>
+</p>
 
-<code><a href="https://www.python.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href="https://git-scm.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href="https://isocpp.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a></code>
-<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp"><img height="20" src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png?raw=true"></a></code>
-<code><a href="https://go.dev"><img height="20" src="https://github.com/hussainweb/hussainweb/blob/main/icons/golang.png?raw=true"></a></code>
-<code><a href="https://dart.dev"><img height="20" src="https://github.com/hussainweb/hussainweb/blob/main/icons/dartlang.png?raw=true"></a></code>
-<code><a href="https://flutter.dev"><img height="20" src="https://github.com/hussainweb/hussainweb/blob/main/icons/flutter.png?raw=true"></a></code>
-<br />
+### Support
+**You can always Support or Sponsor my work via...**<br>
 
-### You Can Support Me Just Like My Life By Out Giving Lemons<img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Lemons.webp" width="40">
-<a href="https://www.buymeacoffee.com/ERR0Rxx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Lemon" width="150" ></a>
-<br />
+<a href="https://www.buymeacoffee.com/ERR0Rxx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" style="border:0; margin:0;" ></a><br>
+<a href="https://paypal.me/Darsh123?country.x=IN&locale.x=en_GB" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" width="150" ></a><br />
 
-## <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/MeWhenCoding.webp" width="35"> Quick Overview {Stats}
-<details>
-<summary> Statistics </summary>
-<br />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=1337Xcode&show_icons=true&locale=en" alt="1337Xcode" />
-<br />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1337Xcode&" alt="1337Xcode" />
-<br /> 
-</details>
+### Statistics:<br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1337XCode&show_icons=true&theme=transparent)
