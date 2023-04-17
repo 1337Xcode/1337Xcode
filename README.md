@@ -9,22 +9,22 @@ Welcome to my GitHub profile! I'm a self-taught programmer and cybersecurity ent
   <img align="right" alt="1337XCode's Personal" width="360" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Coding.webp" />
 </a>
 
-**About Me**<br>
+### About Me<br>
 🔭 I’m currently working on improving my skills in various programming languages.<br>
 🌱 I’m currently pursuing Masters in ML and AI.<br>
 💬 Ask me about anything related to programming and cybersecurity.<br>
 
-**My Socials:**<br>
+### My Socials: <br>
 You can find me on the following platforms:
 <p align="left"> <a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
   <a href="https://t.me/+qLf-HkRjaEVmMjll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-**🔧 Technologies & Tools**<br>
-I'm proficient in the following programming languages and tools:
+### 🔧 Technologies & Tools<br>
+I'm proficient in following programming languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,dart,go" />
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,dart,go" />
   </a>
 </p>
 
