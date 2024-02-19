@@ -12,15 +12,15 @@ Welcome to my GitHub profile! I'm a self-taught programmer and cybersecurity ent
 
 
 ### About Me
-- 👨‍💻 Self-taught coder and security enthusiast, always seeking innovation.
+- 👨‍💻 Self-taught coder and security enthusiast.
 - 🎓 Currently Mastering in Software Engineering.
-- 🌱 Continuously expanding my skill set across various languages and platforms.
+- 🌱 Continuously expanding my skill set across various languages.
 
 ### Socials
 Connect with me on these platforms:
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" width="120"/></a>
-  <a href="https://t.me/+qLf-HkRjaEVmMjll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" width="120"></a>
+  <a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" width="100"/></a>
+  <a href="https://t.me/+qLf-HkRjaEVmMjll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" width="100"></a>
 </p>
 
 
