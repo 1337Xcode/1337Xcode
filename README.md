@@ -27,6 +27,6 @@ Connect with me on these platforms:
 ### Skills & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,html" />
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,bash" />
   </a>
 </p>
