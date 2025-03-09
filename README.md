@@ -21,12 +21,12 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> GitHub Stats
 <div align="left">
   <a href="https://github.com/1337Xcode">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1337Xcode&theme=tokyonight" />
+    <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1337Xcode&theme=tokyonight" />
   </a>
 </div>
 <div align="left">
   <a href="https://github.com/1337Xcode">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=1337Xcode&theme=tokyonight&hide_border=true" alt="1337XCode's GitHub streak"/>
+    <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=1337Xcode&theme=tokyonight&hide_border=true" alt="1337XCode's GitHub streak"/>
   </a>
 </div>
 
