@@ -50,7 +50,7 @@
   </a>
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> Inspiration
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl2Nmc0bmdkaXE2M2YwajU4ZXhvZzV4OXh0Zmx2Zmt2ZDdva20zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/tgsigLDO7znBCiiOcO/giphy.gif" width="35"> Quote of the day
 
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
