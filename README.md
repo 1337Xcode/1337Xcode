@@ -46,10 +46,6 @@
   <a href="https://www.youtube.com/channel/UCTuxcRS1j30xYrqTqiykZzQ?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/+qLf-HkRjaEVmMjll">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </div>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl2Nmc0bmdkaXE2M2YwajU4ZXhvZzV4OXh0Zmx2Zmt2ZDdva20zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/tgsigLDO7znBCiiOcO/giphy.gif" width="35"> Quote of the day
